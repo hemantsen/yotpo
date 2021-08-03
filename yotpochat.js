@@ -1,5 +1,3 @@
-
-
 var chatExist = false;
 var offlineIsOpen = false;
 function initLiveChat(params) {
